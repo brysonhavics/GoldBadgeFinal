@@ -8,16 +8,32 @@ namespace KomodoInsurance_Repository
 {
     public class Badge
     {
-        Dictionary<int, string[]> badgeKeys = new Dictionary<int, string[]>
+        public Dictionary<int, List<string>> badgeKeys = new Dictionary<int, List<string>>
         {
-            {1, new string[]{"A1", "A2", "A3", "A4", "A5"} },
-            {2, new string[]{"A1", "A2", "A3", "A4"} },
-            {3, new string[]{"A1", "A2", "A3"} },
-            {4, new string[]{"A1", "A2"} },
-            {5, new string[]{"A1"} },
+            {0, new List<string>(){" "} },
+            {1,  new List<string>(){"A1", } },
+            {2,  new List<string>(){"A1","A2"} },
+            {3,  new List<string>(){"A1", "A2", "A3"} },
+            {4,  new List<string>(){"A1", "A2" ,"A3", "A4"} },
+            {5,  new List<string>(){"A1", "A2", "A3", "A4", "A5"} },
         };
 
         public int BadgeID { get; set; }
-        public List<string> AccessibleDoors { get; set; }
+        public int BadgeKey { get; set; } 
+        public List<string> AccessibleDoors { get; set; } 
+
+        public Badge(int id, List<string> accessibleDoors)
+        {
+            BadgeID = id;
+            AccessibleDoors = accessibleDoors;
+            BadgeKey = 0;
+        }
+
+        public Badge(int id, int badgeKeyRef)
+        {
+            BadgeID = id;
+            BadgeKey = badgeKeyRef;
+            AccessibleDoors = badgeKeys[badgeKeyRef];
+        }
     }
 }

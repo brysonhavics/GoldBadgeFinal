@@ -1,0 +1,6 @@
+C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoInsurance_Repository\bin\Debug\KomodoInsurance_Repository.dll
+C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoInsurance_Repository\bin\Debug\KomodoInsurance_Repository.pdb
+C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoInsurance_Repository\obj\Debug\KomodoInsurance_Repository.csproj.AssemblyReference.cache
+C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoInsurance_Repository\obj\Debug\KomodoInsurance_Repository.csproj.CoreCompileInputs.cache
+C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoInsurance_Repository\obj\Debug\KomodoInsurance_Repository.dll
+C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoInsurance_Repository\obj\Debug\KomodoInsurance_Repository.pdb
