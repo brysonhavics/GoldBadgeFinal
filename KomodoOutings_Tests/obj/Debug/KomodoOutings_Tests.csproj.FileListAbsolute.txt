@@ -12,3 +12,5 @@ C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Tests\obj\Debug\KomodoO
 C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Tests\obj\Debug\KomodoOutings_Tests.csproj.CopyComplete
 C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Tests\obj\Debug\KomodoOutings_Tests.dll
 C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Tests\obj\Debug\KomodoOutings_Tests.pdb
+C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Tests\bin\Debug\KomodoOutings_Repository.dll
+C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Tests\bin\Debug\KomodoOutings_Repository.pdb

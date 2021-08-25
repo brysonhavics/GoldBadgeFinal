@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KomodoOutings_Repository
 {
-    public enum OutingType { Golf = 0, Bowling, AmusementPark, Concert }
+    public enum OutingType { Golf = 0, Bowling, AmusementPark, Concert, Outing }
     public class Outing
     {
         public OutingType TypeOfOuting { get; set; }
