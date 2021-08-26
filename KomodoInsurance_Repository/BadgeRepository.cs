@@ -68,6 +68,7 @@ namespace KomodoInsurance_Repository
 
         }
 
+        //Delete
         public void RemoveDoorBadge(int id, string doorChange)
         {
             Badge badge = GetBadgeByID(id);

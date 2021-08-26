@@ -33,6 +33,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoOutings_Repository", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoOutings_Tests", "KomodoOutings_Tests\KomodoOutings_Tests.csproj", "{8DCAAABF-6230-4DD1-B1DC-5F3BC0483AF9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Outings", "Outings", "{10A4506B-50DB-4958-BDFC-CFCCBA5FE315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoGreeting_Console", "KomodoGreeting_Console\KomodoGreeting_Console.csproj", "{945CB482-5F33-46A3-8BDA-A8C863040D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoGreeting_Repository", "KomodoGreeting_Classes\KomodoGreeting_Repository.csproj", "{6A410D39-8846-4F0A-82D6-309AC36A1D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoGreeting_Tests", "KomodoGreeting_Tests\KomodoGreeting_Tests.csproj", "{BAE0C829-A5A0-4D1D-BFCB-28211A7CC536}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +95,18 @@ Global
 		{8DCAAABF-6230-4DD1-B1DC-5F3BC0483AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DCAAABF-6230-4DD1-B1DC-5F3BC0483AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DCAAABF-6230-4DD1-B1DC-5F3BC0483AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945CB482-5F33-46A3-8BDA-A8C863040D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945CB482-5F33-46A3-8BDA-A8C863040D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945CB482-5F33-46A3-8BDA-A8C863040D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945CB482-5F33-46A3-8BDA-A8C863040D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A410D39-8846-4F0A-82D6-309AC36A1D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A410D39-8846-4F0A-82D6-309AC36A1D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A410D39-8846-4F0A-82D6-309AC36A1D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A410D39-8846-4F0A-82D6-309AC36A1D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE0C829-A5A0-4D1D-BFCB-28211A7CC536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE0C829-A5A0-4D1D-BFCB-28211A7CC536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE0C829-A5A0-4D1D-BFCB-28211A7CC536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE0C829-A5A0-4D1D-BFCB-28211A7CC536}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +121,9 @@ Global
 		{D70374AB-9AFF-43F2-9B05-9211E5EE6B80} = {1B0ED3E4-39C7-4E7A-9E7D-D53A524C939F}
 		{6804E356-2F50-4DFD-AC10-B2C1DA5016BC} = {1B0ED3E4-39C7-4E7A-9E7D-D53A524C939F}
 		{28804EAD-E184-4E25-8B4C-0AC32903F35C} = {1B0ED3E4-39C7-4E7A-9E7D-D53A524C939F}
+		{0DBCC3B9-3848-491A-B5FA-8E2078688007} = {10A4506B-50DB-4958-BDFC-CFCCBA5FE315}
+		{2F19FB72-E15F-4731-92A8-37729E84D267} = {10A4506B-50DB-4958-BDFC-CFCCBA5FE315}
+		{8DCAAABF-6230-4DD1-B1DC-5F3BC0483AF9} = {10A4506B-50DB-4958-BDFC-CFCCBA5FE315}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BEFCFCF0-60CB-4ABA-B5B8-8D132A1959AC}
