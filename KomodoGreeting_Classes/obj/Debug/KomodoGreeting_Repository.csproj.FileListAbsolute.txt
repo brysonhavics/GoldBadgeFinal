@@ -1,6 +1,0 @@
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoGreeting_Classes\bin\Debug\KomodoGreeting_Classes.dll
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoGreeting_Classes\bin\Debug\KomodoGreeting_Classes.pdb
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoGreeting_Classes\obj\Debug\KomodoGreeting_Repository.csproj.AssemblyReference.cache
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoGreeting_Classes\obj\Debug\KomodoGreeting_Repository.csproj.CoreCompileInputs.cache
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoGreeting_Classes\obj\Debug\KomodoGreeting_Classes.dll
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoGreeting_Classes\obj\Debug\KomodoGreeting_Classes.pdb

@@ -1,6 +1,0 @@
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoClaims_Repository\bin\Debug\KomodoClaims_Repository.dll
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoClaims_Repository\bin\Debug\KomodoClaims_Repository.pdb
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.csproj.CoreCompileInputs.cache
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.dll
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.pdb
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.csproj.AssemblyReference.cache

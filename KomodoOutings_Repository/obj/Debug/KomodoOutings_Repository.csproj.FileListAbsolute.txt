@@ -1,5 +1,0 @@
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Repository\bin\Debug\KomodoOutings_Repository.dll
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Repository\bin\Debug\KomodoOutings_Repository.pdb
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Repository\obj\Debug\KomodoOutings_Repository.csproj.CoreCompileInputs.cache
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Repository\obj\Debug\KomodoOutings_Repository.dll
-C:\Users\bryso\source\repos\GoldBadgeFinal\KomodoOutings_Repository\obj\Debug\KomodoOutings_Repository.pdb
